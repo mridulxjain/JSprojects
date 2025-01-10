@@ -16,6 +16,11 @@ body{
     margin: 100px auto 0px;
     padding: 40px 35px;
     text-align: center;
+    transition: transform 0.2s ease;
+}
+
+.card:hover{
+    transform: scale(1.05)
 }
 .search{
     width: 100%;
