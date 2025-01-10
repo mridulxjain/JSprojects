@@ -53,12 +53,27 @@ body{
     width: 20px;
     padding-right: 2px;
     padding-top: 2px;
+    
 }
 
 .weather-icon{
     width: 170px;
     margin-top: 30px;
+    animation: weatherAnimation 3s infinite ease-in-out;
 }
+
+@keyframes weatherAnimation{
+    0% {
+        transform: translateY(0);
+    }
+    50% {
+        transform: translateY(-25px);
+    }
+    100% {
+        transform: translateY(0);
+    }
+}
+
 .weather h1{
     font-size: 80px;
     font-weight: 500;
