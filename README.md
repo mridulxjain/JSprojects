@@ -7,8 +7,9 @@ Welcome to the JavaScript Projects Repository, a collection of various projects 
 This repository contains a series of JavaScript projects that cover a range of topics, including DOM manipulation, API integrations, algorithmic challenges, and more. Each project is designed to be beginner-friendly yet demonstrates practical uses of JavaScript concepts.
 
 ## Projects List 🗂️
-     Here are the projects currently included in this repository:
-          1.	Weather App 🌤️
+Here are the projects currently included in this repository:  
+1. Weather app ⛅️  
+2. Todo App 📝  
 
 ## Technologies Used 🛠️
 	•	HTML5: Structuring the user interfaces.
