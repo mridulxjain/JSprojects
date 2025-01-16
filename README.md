@@ -10,6 +10,7 @@ This repository contains a series of JavaScript projects that cover a range of t
 Here are the projects currently included in this repository:  
 1. Weather app ⛅️  
 2. Todo App 📝  
+3. Password Generator  
 
 ## Technologies Used 🛠️
 	•	HTML5: Structuring the user interfaces.
