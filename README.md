@@ -11,7 +11,8 @@ Here are the projects currently included in this repository:
 1. Weather app ⛅️  
 2. Todo App 📝  
 3. Password Generator 🆔  
-4. QR Generator 🔲
+4. QR Generator 🔲  
+5. Toast Notifications 🔔
 
 ## Technologies Used 🛠️
 	•	HTML5: Structuring the user interfaces.
